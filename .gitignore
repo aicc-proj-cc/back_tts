@@ -1,0 +1,6 @@
+# misc
+XTTS_GANYU_MODEL
+XTTS_PAIMON_MODEL
+VITS_MODEL
+
+app/__pycache__
